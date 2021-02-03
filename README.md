@@ -1,16 +1,14 @@
-### Hi there 👋
+## Writings
 
-<!--
-**themithy/themithy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Javascript and endianness](https://github.com/themithy/js-concepts/blob/master/Endianness.md)
+- [Design patterns in React](https://github.com/themithy/react-design-patterns)
+- [Docker ARP spoofing problem](https://github.com/themithy/js-concepts/blob/master/Endianness.md)
+- [25 hardest JS interview questions](https://github.com/themithy/the-insane-javascript-interview)
+- [Javascript logic problems](https://github.com/themithy/almost-false)
+- [Anatomy of React hooks](https://www.linkedin.com/pulse/anatomy-react-hooks-micha%C5%82-kozielski/)
+- [The Fibonacci interview](https://www.linkedin.com/pulse/fibonacci-interview-micha%C5%82-kozielski/)
+- [Thoughts on solving DP problems](https://www.linkedin.com/pulse/thoughts-solving-dp-problems-micha%C5%82-kozielski/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tutorials
+- [Docker, docker-compose, and docker swarm](https://github.com/themithy/docker-tutorial)
+- [Website and email certificates (SSL)](https://github.com/themithy/ssl-tutorial)
